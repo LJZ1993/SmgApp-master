@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "714050683254",
+    "project_id": "firebase-tomato"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714050683254:android:5874c12a9addaa71",
+        "android_client_info": {
+          "package_name": "xunao.fq_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9moyF6VAf4nxc1uhCT3GDdCG-b7vGzPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-80331549-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
